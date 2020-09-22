@@ -1,0 +1,16 @@
+{
+  "name": "Bet.Me Coding Challenge",
+  "version": "1.0.0",
+  "description": "Coding challenge for Bet.Me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Semeniuk",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.2"
+  }
+}
